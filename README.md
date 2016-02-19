@@ -1,2 +1,2 @@
 # hadoop-cluster-config
-hadoopadeboopboop
+hadoopadeboopboop with some pig
